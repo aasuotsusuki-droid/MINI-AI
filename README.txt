@@ -1,6 +1,1 @@
-Here is a mini ai assistant for your desktop 
-steps to setup
-1 clone the repo 
-2 create virtual environment using python python -m venv .venv
-then activate it 
-3 start main.py and the assistantis live 
+See README.md for the current project overview, setup steps, supported voice commands, technical details, privacy notes, and Windows executable build instructions.
